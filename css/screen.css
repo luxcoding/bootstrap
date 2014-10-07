@@ -2021,3 +2021,4 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 @media print { .visible-print-inline-block { display: inline-block !important; } }
 
 @media print { .hidden-print { display: none !important; } }
+.logo { background: url('../img/icons-se56dbb8795.png') 0 0 no-repeat; width: 120px; height: 20px; display: inline-block; }
